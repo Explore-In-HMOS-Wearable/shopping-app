@@ -1,0 +1,34 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+
+    {
+      "name": "tab_home",
+      "value": "home"
+    },
+    {
+      "name": "tab_profile",
+      "value": "profile"
+    },
+    {
+      "name": "tab_cart",
+      "value": "cart"
+    }
+  ,
+    {
+      "name": "tab_menu",
+      "value": "menu"
+    }
+  ]
+}
