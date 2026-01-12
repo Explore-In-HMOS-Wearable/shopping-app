@@ -1,7 +1,7 @@
 import { clear, getParams, routePageWithParams, routerBack } from '../../common/RouterUtils';
 import { ArcScrollBar } from '@ohos.arkui.ArcScrollBar';
 
-const PASSWORD = 'T7uhISAb#1Th';
+const PASSWORD = 'test_password';
 
 @Component
 export default struct SignInPasswordScreen {
